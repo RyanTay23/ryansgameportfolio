@@ -1,0 +1,11 @@
+https://www.apple.com/sg/ is a good example of a good website due to:
+1. simplicity
+2. consistent and clean typography
+3. intuitive nav
+
+color palette:
+primary - deep blue
+secondary - electric green
+accent - bold orange (to make stuff stand out / use sparingly)
+supporting - neutral gray / white
+contrasting - Charcoal / Deep Purple
